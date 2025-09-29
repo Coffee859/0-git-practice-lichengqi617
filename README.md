@@ -7,7 +7,14 @@
 I found the Makefile Tutorial really helpful because it breaks down a tool that often feels intimidating into clear, practical examples. It’s especially useful for understanding how to automate compilation and builds in C/C++, and it shows why knowing the basics yourself is valuable even in an era of AI-assisted development.
 
 ### Angela Gao's Comments
+<<<<<<< HEAD
 I've never thought much about makefiles, so it was interesting to check out a site to learn more about them. The site goes into to detail about the syntax, versions and different alternatives which helped me a bit better to understand how it can automate compilation in C/C++.
 
 ### Reece Huey's Comments
 Never recall hearing about Makefiles, but maybe I used them in some courses I took where I wrote code solutions in Java and had to test them alongside cases written in a Makefile.
+=======
+I've never thought much about makefiles, so it was interesting to check out a site to learn more about them. The site goes into to detail about the syntax, versions and different alternatives which helped me a bit better to understand how it can automate compilation in C/C++. 
+
+### Reece Huey's Comments
+I don't ever recall hearing about Makefiles, but I might have seen them in Operating Systems or Computer Systems Organization. I may have also seen them in some courses I've taken using Java, where I had to solve problems and validate my code with test cases. Are Makefiles used to test code solutions or anything?
+>>>>>>> f71c68f0438d343e52dc75bf854ce436b7a112b1
