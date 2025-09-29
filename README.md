@@ -8,3 +8,6 @@ I found the Makefile Tutorial really helpful because it breaks down a tool that 
 
 ### Angela Gao's Comments
 I've never thought much about makefiles, so it was interesting to check out a site to learn more about them. The site goes into to detail about the syntax, versions and different alternatives which helped me a bit better to understand how it can automate compilation in C/C++. 
+
+### Reece Huey's Comments
+I don't ever recall hearing about Makefiles, but I might have seen them in Operating Systems or Computer Systems Organization. I may have also seen them in some courses I've taken using Java, where I had to solve problems and validate my code with test cases. Are Makefiles used to test code solutions or anything?
